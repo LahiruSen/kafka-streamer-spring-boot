@@ -20,8 +20,8 @@ This project demonstrates a Spring Boot application that consumes messages from 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/kafka-spring-boot-app.git
-cd kafka-spring-boot-app
+git clone https://github.com/LahiruSen/kafka-streamer-spring-boot.git
+cd kafka-streamer-spring-boot
 ```
 
 ### 2. Configure Kafka

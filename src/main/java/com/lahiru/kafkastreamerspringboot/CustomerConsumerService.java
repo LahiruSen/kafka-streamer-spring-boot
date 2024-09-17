@@ -26,7 +26,7 @@ public class CustomerConsumerService {
         }
     }
 
-    private int extractAgeFromMessage(String message) {
+    public int extractAgeFromMessage(String message) {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
             JsonNode jsonNode = objectMapper.readTree(message);
